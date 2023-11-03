@@ -1,0 +1,7 @@
+Streaming Mode: WANT_ALL | Parallel getRange time: 41 ms
+Streaming Mode: EXACT | Parallel getRange time: 10 ms
+Streaming Mode: ITERATOR | Parallel getRange time: 6 ms
+Streaming Mode: LARGE | Parallel getRange time: 5 ms
+Streaming Mode: MEDIUM | Parallel getRange time: 4 ms
+Streaming Mode: SMALL | Parallel getRange time: 5 ms
+Streaming Mode: SERIAL | Parallel getRange time: 4 ms

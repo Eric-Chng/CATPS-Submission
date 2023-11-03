@@ -1,0 +1,7 @@
+Streaming Mode: WANT_ALL, Time Taken: 36 ms
+Streaming Mode: EXACT, Time Taken: 12 ms
+Streaming Mode: ITERATOR, Time Taken: 10 ms
+Streaming Mode: LARGE, Time Taken: 45 ms
+Streaming Mode: MEDIUM, Time Taken: 162 ms
+Streaming Mode: SMALL, Time Taken: 556 ms
+Streaming Mode: SERIAL, Time Taken: 7 ms
